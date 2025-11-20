@@ -16,6 +16,7 @@ public class Cliente {
     private String cognome;
     private String codiceFiscale;
     private String indirizzo;
+    private float totale;
     
     public Cliente (String nome, String cognome, String codiceFiscale, String indirizzo)
     {
