@@ -9,6 +9,8 @@ package it.unisa.diem.oop.gestioneclienti;
 /**
  *PER SALVARE LE MODIFICHE -->COMMIT--> PUSH(DA TEM/REMOTE)
  * PER SCARICARE LE MODIFICHE--> PULL(DA TEM/REMOTE)
+ * 
+ * ciao
  * @author Marco Diano'
  */
 public class Cliente {
@@ -17,6 +19,9 @@ public class Cliente {
     private String codiceFiscale;
     private String indirizzo;
     private float totale;
+    
+    private String giorno;
+    
     
     public Cliente (String nome, String cognome, String codiceFiscale, String indirizzo)
     {
