@@ -6,7 +6,8 @@
 package it.unisa.diem.oop.gestioneclienti;
 /*MODIFICHE GIOVANNI 20112025*/
 /**
- *
+ *PER SALVARE LE MODIFICHE -->COMMIT--> PUSH(DA TEM/REMOTE)
+ * PER SCARICARE LE MODIFICHE--> PULL(DA TEM/REMOTE)
  * @author Marco Diano'
  */
 public class Cliente {
